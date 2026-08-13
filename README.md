@@ -3,6 +3,7 @@
 **`Desenvolvedora`**
 
 • Técnica em Redes de Computadores por Cefet MG
+• Cursando Engenharia de Software - Puc Minas
 
 ### 🤖 Linguagens
 

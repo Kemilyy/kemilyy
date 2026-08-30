@@ -121,7 +121,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kemilyy&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kemilyy&theme=dracula&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kemilyy&theme=nord&hide_border=true&layout=compact" width="48%" />
 </p>
 
 <p align="center">

@@ -125,7 +125,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kemilyy&theme=onedark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kemilyy&theme=nord&hide_border=true" width="48%" />
 </p>
 
 ##

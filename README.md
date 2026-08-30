@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=200&section=header&text=Hi,%20my%20name%20is%20Kêmily%20💜&fontSize=50&fontFamily=Poppins&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ol%C3%A1%2C+eu+sou+Kemily!;Desenvolvedora+em+forma%C3%A7%C3%A3o;Seja+bem-vinda(a)+%F0%9F%92%9C&font=Fira+Code&center=true&width=500&height=50&color=B19CD9&vCenter=true&size=25)](https://git.io/typing-svg)
 
 **`Desenvolvedora`**
 

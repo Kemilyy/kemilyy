@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=200&section=header&text=Hi,%20my%20name%20is%20Kêmily%20💜&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B19CD9&height=200&section=header&text=Hi,%20my%20name%20is%20Kêmily%20💜&fontSize=50&fontFamily=Poppins&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 **`Desenvolvedora`**
 

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=B19CD9&center=false&vCenter=true&width=800&lines=Ol%C3%A1+eu+sou+a+K%C3%AAmily!+Desenvolvedora+em+forma%C3%A7%C3%A3o.;Seja+bem-vindo(a)+ao+meu+perfil+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=B19CD9&center=false&vCenter=true&width=800&lines=Ol%C3%A1,+eu+sou+a+K%C3%AAmily!+Desenvolvedora+em+forma%C3%A7%C3%A3o.;Seja+bem-vindo(a)+ao+meu+perfil+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 • Técnica em Redes de Computadores por Cefet MG
 

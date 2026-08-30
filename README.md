@@ -118,8 +118,14 @@
 
 ##
 
-[![Kemilyy's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kemilyy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kemilyy&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kemilyy&theme=radical&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kemilyy&theme=radical&hide_border=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kemilyy&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ##
 
